@@ -37,5 +37,6 @@ menu = (
     item('Exit', lambda: exit_application(icon, item))
 )
 icon = pystray.Icon("name", image, "Title", menu)
+set_charge_limit(icon, charge_limit, image, save_filename)
 
 icon.run()
