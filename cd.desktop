@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/nickl/code/set-charge-limit-tray/main.py
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=charge
+Name=charge
+Comment[en_US]=
+Comment=
